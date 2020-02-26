@@ -1,0 +1,46 @@
+body {
+  background-color: red;
+}
+p {
+  color: white;
+}
+h1 {
+  font-weight: bold;
+  font-size: 30px;
+  font-family: fantasy;
+    text-align: center;
+    
+}
+
+h3 {
+    font-family: fantasy;
+    text-align: center;
+}
+
+.map{
+    width: 300px;
+    height: auto;
+}
+.champions{
+    width: 250px;
+    height: auto;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    text-align: center;
+    background-color: lightcoral;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 2;
+    
+}
+
+video{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
