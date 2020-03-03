@@ -17,6 +17,10 @@ h3 {
     text-align: center;
 }
 
+.notebook{
+  width: 300px;
+  height: auto;
+
 .map{
     width: 300px;
     height: auto;
